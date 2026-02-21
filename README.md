@@ -8,7 +8,7 @@ I place equal value high performance and premium aesthetics, ensuring that every
 # 🗂️ Portfolio:
 [Check my work here! - tiberiugabriel.com](https://tiberiugabriel.com/?utm_source=github&utm_medium=github&utm_campaign=github&utm_content=description)
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tiberiugabriel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tiberiugabriel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dltiberiu@gmail.com) 
 
 # 💻 Tech Stack:
