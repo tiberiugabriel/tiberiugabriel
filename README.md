@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white)]([https://google.com](https://tiberiugabriel.com/?utm_source=github&utm_medium=github&utm_campaign=github&utm_content=description))[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tiberiugabriel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tiberiugabriel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@tiberiugabriel.com) 
+[![Website](https://img.shields.io/badge/Website-blue?logo=internet-explorer&logoColor=white)](https://instagram.com/tiberiugabriel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tiberiugabriel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tiberiugabriel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@tiberiugabriel.com) 
 
 ---
 
